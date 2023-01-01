@@ -34,13 +34,13 @@ class Post(db.Model):
 
 posts = [
     {
-        'author':'Ayooluwa Adeleye',
+        'author':'John Doe',
         'title':'Blog Post 1',
         'content':'First Post',
         'date_posted':'Feb 17, 2005'
     },
     {
-        'author': 'Ayomikun Adeleye',
+        'author': 'Allie Grater',
         'title': 'Blog Post 2',
         'content': 'Second Post',
         'date_posted': 'Oct 16, 2009'
